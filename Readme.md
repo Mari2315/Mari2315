@@ -1,7 +1,7 @@
 ## <h1>Maria Helena Leite Botelho 👨🏽‍💻 </h1>
 
-Sou estudante e desenvolvedor apaixonado por tecnologia, programação e soluções criativas.  
-Aqui no meu GitHub você vai encontrar meus projetos, estudos e experimentos em programação 🚀
+Sou estudante na Etec, desenvolvedora e apaixonada por tecnologia, programação, UI'UX e soluções criativas.  
+Aqui no meu GitHub você vai encontrar meus projetos, estudos e experimentos nessa área <3
 
 ---
 
@@ -27,12 +27,12 @@ Aqui no meu GitHub você vai encontrar meus projetos, estudos e experimentos em 
 
 ## 🔎 Sobre mim  
 
-- *Estudante de Informática para Internet* na ETEC, sempre em busca de evolução no mundo da tecnologia.  
-- *Experiência em desenvolvimento web* com foco em *JavaScript, HTML, CSS e Node.js*.  
-- *Conhecimentos em bancos de dados relacionais* (MySQL) para estruturar e otimizar armazenamento de informações.  
-- *Interesse em projetos fullstack*, unindo Frontend e Backend para criar soluções completas.  
-- *Apaixonado por tecnologia e finanças, compartilho aprendizados também no meu canal **Primo CLT* no YouTube.  
-- *Valorizo código limpo e boas práticas*, sempre buscando aprender mais e aplicar no dia a dia.  
+- *Estudante de Informática para Internet na ETEC, explorando tecnologia com foco em Design e UX/UI. 
+- *Apaixonada por criar interfaces bonitas e funcionais, do conceito à implementação.
+- *Experiência com Figma, prototipagem e design de interfaces, sempre buscando a melhor experiência para o usuário.
+- *Interesse em projetos que unam arte, criatividade e tecnologia, trazendo soluções visuais elegantes e práticas.
+- *Valorizo design limpo, organização visual e atenção aos detalhes, sempre aprendendo e evoluindo em cada projeto. 
+- *Exploro tendências de design e artes visuais, buscando sempre inovação e inspiração para meus projetos.
 
 ---
 
